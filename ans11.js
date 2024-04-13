@@ -4,3 +4,8 @@ var names = ["Usman", "Mansoor", "Mohsin", "Sultan", "Ifraheem", "Zakariyah", "A
 for (var i = 0; i < names.length; i++) {
     console.log(names[i]);
 }
+// need ot of pratice espeacially for line 4
+var namelist = ["Asadullah", "Ifraheem", "Mansoor", "Mohsin", "Sultan", "Usman", "Zakariyah"];
+for (var i = 0; i < namelist.length; i++) {
+    console.log(namelist[i]);
+}
